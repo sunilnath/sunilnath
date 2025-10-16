@@ -1,6 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sunil! 👋
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunil-nath&theme=dark&hide_border=true)
+![Commits](https://img.shields.io/badge/Commits-150-blue)
+![Projects](https://img.shields.io/badge/Projects-5-green)
+
+
 
 <!--
+## Hi there 👋
+
 **sunilnath/sunilnath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
