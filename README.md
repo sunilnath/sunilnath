@@ -1,6 +1,6 @@
 # Hi, I'm Sunil! 👋
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunil-nath&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunilnath&theme=dark&hide_border=true)
 ![Commits](https://img.shields.io/badge/Commits-150-blue)
 ![Projects](https://img.shields.io/badge/Projects-5-green)
 
