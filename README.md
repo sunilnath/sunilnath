@@ -2,9 +2,8 @@
 
 I'm a Passionate Developer | Open Source Enthusiast | Code Ninja
 
-<!-- Banner Image: scaled for mobile -->
-<img src="https://avatars.githubusercontent.com/u/66289616" width="100%" alt="Profile Banner" />
-
+![Profile Banner](https://avatars.githubusercontent.com/u/66289616) 
+<!-- Replace with your banner -->
 ---
 
 ## 🔥 GitHub Stats (Public + Private)
