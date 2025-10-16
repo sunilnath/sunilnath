@@ -9,7 +9,7 @@ I'm a Passionate Developer | Open Source Enthusiast | Code Ninja
 ## 🔥 GitHub Stats (Public + Private)
 
 <!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=sunilnath&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sunilnath&theme=dark&hide_border=true)
 
 <!-- Overall Stats -->
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=sunilnath&show_icons=true&count_private=true&theme=radical)
@@ -17,7 +17,6 @@ I'm a Passionate Developer | Open Source Enthusiast | Code Ninja
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunilnath&layout=compact&theme=radical)
 
-> ✅ `count_private=true` ensures **private repo contributions are counted**, but code is never exposed.
 
 ---
 
