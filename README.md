@@ -3,7 +3,39 @@
 I'm a Passionate Developer | Open Source Enthusiast | Code Ninja
 
 ![Profile Banner](https://avatars.githubusercontent.com/u/66289616) 
-<!-- Replace with your banner -->
+
+---
+
+## 🌐 My Website Pages 
+
+### **Main Pages**
+- 🔗 https://sunilnath.com
+- 📄 https://sunilnath.com/about
+- 📝 https://sunilnath.com/blog
+- 🔍 https://sunilnath.com/search
+- 📞 https://sunilnath.com/contact
+- 🧩 https://sunilnath.com/services
+- 🎒 https://sunilnath.com/portfolio
+- 🗂️ https://sunilnath.com/category
+- 🏷️ https://sunilnath.com/tag
+- ✍️ https://sunilnath.com/author
+
+### **Portfolio Categories**
+- 🗃️ https://sunilnath.com/portfolio-category
+
+### **Service Pages**
+- ⚙️ https://sunilnath.com/service/web-app-development
+- 🛠️ https://sunilnath.com/service/backend-api-design
+- 🗄️ https://sunilnath.com/service/database-architecture
+- 🔐 https://sunilnath.com/service/security-testing
+
+### **Legal & System Pages**
+- 🔐 https://sunilnath.com/privacy  
+- 📜 https://sunilnath.com/terms  
+- 🗺️ https://sunilnath.com/sitemap  
+
+---
+
 ---
 
 ## 🔥 GitHub Stats (Public + Private)
